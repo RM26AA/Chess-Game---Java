@@ -21,10 +21,6 @@ A full-featured 2D chess game built in Java using Swing. This project supports a
 - Java Swing (`javax.swing`)
 - Custom `pieces.png` sprite sheet
 
-## 📸 Screenshots
-
-*Add screenshots here if you have them!*
-
 ## 🎮 How to Play
 
 1. Clone the repository:
